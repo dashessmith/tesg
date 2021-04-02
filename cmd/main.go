@@ -14,4 +14,6 @@ func main() {
 
 	fmt.Printf("test3 c1\n")
 	fmt.Printf("test3 c2\n")
+
+	fmt.Printf("this is a first bugfix\n")
 }
