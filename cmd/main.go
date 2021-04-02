@@ -11,4 +11,6 @@ func main() {
 
 	fmt.Printf("test2 c1\n")
 	fmt.Printf("test2 c2\n")
+
+	fmt.Printf("test3 c1\n")
 }
