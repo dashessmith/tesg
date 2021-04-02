@@ -7,4 +7,5 @@ func main() {
 	fmt.Printf("develop changed\n")
 	fmt.Printf("test1\n")
 	fmt.Printf("test1 c2\n")
+	fmt.Printf("test1 c3\n")
 }
