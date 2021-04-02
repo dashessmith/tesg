@@ -18,4 +18,5 @@ func main() {
 	fmt.Printf("this is a first bugfix\n")
 	fmt.Printf("fix another bug\n")
 	fmt.Printf("...\n")
+	fmt.Printf("finally!\n")
 }
