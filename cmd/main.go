@@ -15,6 +15,9 @@ func main() {
 	fmt.Printf("test3 c1\n")
 	fmt.Printf("test3 c2\n")
 
+	fmt.Printf("this is a first bugfix\n")
+	fmt.Printf("fix another bug\n")
+	fmt.Printf("...\n")
 	fmt.Printf("finally!\n")
 	fmt.Printf("this is a hot fix\n")
 }
