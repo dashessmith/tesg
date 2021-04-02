@@ -5,4 +5,7 @@ import "fmt"
 func main() {
 	fmt.Printf("123\n")
 	fmt.Printf("develop changed\n")
+	fmt.Printf("test1\n")
+	fmt.Printf("test1 c2\n")
+	fmt.Printf("test1 c3\n")
 }
